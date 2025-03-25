@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/Xyu.io-github-blue?logo=github)](https://github.com/xyu-io)
 
-#### 能力总览
+#### 能力总览（Competency）
 + 具备大型产品设计、开发能力和基础架构能力         
 + 熟悉计算机网络、TCP/IP技术，掌握网络数据包采集、深度分析技术
 + 掌握Go、Python、Java、C等编程语言，shell语言，git版本控制、敏捷开发
