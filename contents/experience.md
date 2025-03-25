@@ -1,21 +1,43 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **数据工程师**
+**2018年4月 – 2018年7月 | 阿里云大数据与云计算**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+​     熟悉、掌握数据接入、分级分类、清洗、加工、大屏可视化的数据ETL流程及其操作流水线。
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 以客户营销数据为例，对客户数据进行清晰，精细化客户画像。  
+- 熟悉并掌握阿里云云平台的数据处理流程，数据模型和数据清洗流程。  
+
+### **实习软件开发工程师**
+
+**2019年7月 – 2019年9月 | 贵州遵义桐梓县甲骨文公司**  
+
+​     图书管理系统(JAVA+Vue技术栈)开发小组负责人之一，负责数据库系统、后端框架搭建、后端模块开发、产品设计书撰写等。
+
+#### 主要贡献:  
+
+- 数据库工程师，设计并开发数据库管理系统。  
+- 后端开发工程师，参与开发框架的搭建、后端部分模块的开发，比如图书管理。 
+
+### 高级研发工程师
+
+**2020年7月 – 2023年4月 | 贵州白山云科技股份有限公司**  
+
+​     白山云云拨测产品负责人，完成拨测系统从无到有的突破，涉及产品需求调研、产品设计到研发交付，涵盖系统API、GRPC通信到具体底层功能的所有组件，采集公司上万台IDC设备网络情况，提供节点质量决策依据，支持公司自动化运维和质量运维。
+
+#### 主要贡献:  
+
+- 上线白山云拨测-V2.0 ，提升了白山云内部质量运维、节点网络运维团队的工作效率，降低了节点故障率、网络异常率
+- 为白山云海外团队的节点选点、节点建设和服务评估提供了数据支撑，助力了公司海外业务的正常开展。
+
+### 研发运维组长
+
+**2023年4月 – 至今 | 云上广济（信息）技术有限公司**  
+
+​     作为研发运维组长，一方面承担公司内部运维团队建设、交付运维培养，另一方面，作为负责人，立项并完成公司入侵检测产品的自研，目前已经开发上线，实现对接启明星辰态势感知，自研态势感知。
+
+#### 主要贡献:  
+
+- 运维研发组长，负责IDS产品设计开发（从0到1）  
+- 公司运维体系建设，交付运维团队培养
+- 威胁情报采集/维护，网络异常行为检测规则建设
+- 安全态势感知系统数据采集、转发组件自研

@@ -6,6 +6,8 @@ app/**/bindata.go
 
 #ide
 .idea/
+.xml
+.iml
 .DS_Store
 .vscode
 
