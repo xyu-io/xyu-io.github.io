@@ -14,6 +14,7 @@
 + 熟悉Centos, 麒麟OS, RHEL-OS等常用操作系统及其运维命令
 + 熟悉Kafka, Zk, Jumpserver, Esxi, P8s, Elk, Ansible等产品部署运维
 + 熟悉Es, Redis, Mariadb, Mysql, Clickhouse, Minio, TDengine等主流数据库的部署维护和使用
++ 基于LangChain的智能体开发、本地AI知识库搭建
 
 #### 教育情况（Education）  
 **贵州大学**, 大数据与信息工程学院-电子信息类-通信工程 (2016 – 2020), 工学学士 
