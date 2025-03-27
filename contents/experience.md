@@ -32,7 +32,7 @@
 ​     白山云云拨测产品负责人，完成拨测系统从无到有的突破，涉及产品需求调研、产品设计到研发交付，涵盖系统API、GRPC通信到具体底层功能的所有组件，采集公司上万台IDC设备网络情况，提供节点质量决策依据，支持公司自动化运维和质量运维。
 ##### 🌈技术栈:
 
-- Golang/Python/React/Shell
+- Golang/PHP/Python/React/Shell
 - Clickhouse/Mysql/Redis/Grafana/InfluxDB等
 - Linux/Docker/DockerFile/Docker-compose
 - Linux系统运维、容器化运维
@@ -52,7 +52,7 @@
 ​     作为研发运维组长，一方面承担公司内部运维团队建设、交付运维培养，另一方面，作为负责人，立项并完成公司入侵检测产品的自研，目前已经开发上线，实现对接启明星辰态势感知，自研态势感知。
 ##### 🌈技术栈:
 
-- Golang/React/Vue/Shell
+- Golang/C,C++/Python/React/Vue/Shell/Makefile
 - Linux/Docker/DockerFile/Docker-compose
 - Clickhouse/Mysql/Redis/Tdengine/Kafka/Zookeeper等
 - 网络数据包采集、DPI技术、漏洞技术、威胁检测规则技术等
