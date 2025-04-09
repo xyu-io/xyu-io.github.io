@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Academic Webpage" />
-    <meta name="author" content="yixin0313" />
+    <meta name="author" content="xyu0313" />
     <title id="title"></title>
 
     <!-- Icon -->
@@ -76,7 +76,24 @@
     <!-- Core JS-->
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
-
+    <!-- Css-->
+    <style>
+        .image-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+        }
+        .image-container img {
+            width: 100%;
+            height: auto;
+        }
+        @media (min-width: 720px) {
+            .image-container img {
+                width: calc((100% - 35px) / 3);
+            }
+        }
+    </style>
 </head>
 
 <body id="page-top">
@@ -97,6 +114,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#experience">工作经历</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#power">能力评估</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#awards">获奖情况</a>
@@ -150,6 +170,22 @@
     </section>
     <!-- Experience -->
 
+    <!-- Power -->
+    <section class="bg-gradient-primary-to-secondary-dark mt5 md5" id="power">
+        <div class="container px-5">
+            <header>
+                <h2 id="power-subtitle"><i class="bi bi-briefcase-fill"></i> 能力分布 </h2>
+            </header>
+            <div class="main-body">
+                <div class="image-container">
+                    <img src="static/assets/img/power-3.png" alt="Image 3">
+                    <img src="static/assets/img/power-1.png" alt="Image 1">
+                    <img src="static/assets/img/power-2.png" alt="Image 2">
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Awards -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
         <div class="container px-5">
@@ -157,7 +193,6 @@
                 <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>获奖情况 </h2>
             </header>
             <div class="main-body" id="awards-md"></div>
-
         </div>
     </section>
     <!-- Awards -->
